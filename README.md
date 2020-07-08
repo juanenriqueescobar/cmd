@@ -11,7 +11,7 @@ This package is a small but very useful wrapper around [os/exec.Cmd](https://gol
 import (
 	"fmt"
 	"time"
-	"github.com/go-cmd/cmd"
+	"github.com/juanenriqueescobar/cmd"
 )
 
 func main() {
@@ -115,11 +115,11 @@ In addition to 100% test coverage and no race conditions, this package is active
 
 [MIT](LICENSE) © go-Cmd.
 
-[goreport-img]: https://goreportcard.com/badge/github.com/go-cmd/cmd
-[goreport-url]: https://goreportcard.com/report/github.com/go-cmd/cmd
+[goreport-img]: https://goreportcard.com/badge/github.com/juanenriqueescobar/cmd
+[goreport-url]: https://goreportcard.com/report/github.com/juanenriqueescobar/cmd
 [build-img]: https://travis-ci.org/go-cmd/cmd.svg?branch=master
 [build-url]: https://travis-ci.org/go-cmd/cmd
 [cover-img]: https://coveralls.io/repos/github/go-cmd/cmd/badge.svg
 [cover-url]: https://coveralls.io/github/go-cmd/cmd
-[godoc-img]: https://godoc.org/github.com/go-cmd/cmd?status.svg
-[godoc-url]: https://godoc.org/github.com/go-cmd/cmd
+[godoc-img]: https://godoc.org/github.com/juanenriqueescobar/cmd?status.svg
+[godoc-url]: https://godoc.org/github.com/juanenriqueescobar/cmd

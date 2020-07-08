@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-cmd/cmd"
 	"github.com/go-test/deep"
+	"github.com/juanenriqueescobar/cmd"
 )
 
 func TestCmdOK(t *testing.T) {
